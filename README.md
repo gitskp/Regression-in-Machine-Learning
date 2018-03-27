@@ -1,2 +1,2 @@
 # Regression-in-Machine-Learning
-All regression types in machine learning
+All regression types in machine learning with ipynb file
